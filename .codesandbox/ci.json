@@ -1,1 +1,4 @@
+{
+  "sandboxes": ["new", "svelte"]
+}
 
